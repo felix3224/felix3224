@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=what's+up,+my+king;I'm+Diego,+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=what's+up,+my+king;I'm+Witalo,+Welcome!)](https://git.io/typing-svg)
 ###
 <h3 align="left">🎯 Desenvolvedor em formação apaixonado por tecnologia, programação e resolução de problemas.<br>🚀 Aqui você vai encontrar projetos que refletem meus estudos, experimentos e evolução no mundo da computação.<br><br>📌 Sobre mim<br><br>📚 Student -  Ciência da Computação<br><br>💡 Interesses em: Estruturas de Dados, IA e Banco de dados.<br><br>🌱 Atualmente aprendendo - English, IA e basktball</h3>
 
