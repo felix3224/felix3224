@@ -94,7 +94,6 @@ My focus is on the **defensive side of security** — detecting real attacks, an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felix3224&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="160" />
   <img src="https://streak-stats.demolab.com?user=felix3224&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=5" height="160" />
 </div>
 
