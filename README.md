@@ -60,6 +60,7 @@ My focus is on the **defensive side of security** — detecting real attacks, an
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Azure](https://skillicons.dev/icons?i=azure)
 
 **Languages**
 
