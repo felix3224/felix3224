@@ -61,6 +61,9 @@ My focus is on the **defensive side of security** — detecting real attacks, an
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Azure](https://skillicons.dev/icons?i=azure)
+<a href="https://wazuh.com">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" width="48" alt="Wazuh"/>
+</a>
 
 **Languages**
 
