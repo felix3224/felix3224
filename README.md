@@ -14,10 +14,35 @@ I'm a **Computer Science student** (4/8) based in Brazil, building hands-on skil
 My focus is on the **defensive side of security** — detecting real attacks, analyzing network traffic, and building functional lab environments that mirror production SOC workflows.
 
 - 🎓 **B.Sc. Computer Science** — currently in 4th semester
-- 🛡️ **Focus areas:** SOC Operations · Threat Detection · Incident Response · Log Analysis
-- 🔬 **Currently building:** homelab environments with Elastic Stack, Zeek, and attack simulations
-- 📚 **Also studying:** Data Structures, Databases, JavaScript, C
+- 🛡️ **Focus areas:** SOC Operations · Threat Detection · Incident Response
+- 🔬 **Currently building:** homelab environments with Wazuh/Elastic Stack, Zeek, Shuffle & Thehive
+- 📚 **Also studying:** Network, Databases, C, Python
 - 🌱 **Learning on the side:** English · Basketball
+
+---
+## 🛡️ Featured Project — SOC-Automation | Wazhu | Shuffle | TheHive
+ 
+> *A hands-on SOC lab built to detect and analyze real security incidents.*
+ 
+[![Repo](https://img.shields.io/badge/GitHub-soc--wazuh--homelab-181717?style=for-the-badge&logo=github)](https://github.com/felix3224/soc-wazuh-homelab)
+[![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)](https://github.com/felix3224/soc-wazuh-homelab)
+[![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%2FEDR-005571?style=for-the-badge)](https://wazuh.com/)
+ 
+This lab simulates a small SOC environment where I monitor, detect, create Rule and investigate security events end-to-end:
+ 
+| Layer | Stack |
+|---|---|
+| infrastructure | Azure - Ubuntu server 22.04 |
+| SIEM / EDR | Wazuh |
+| Monitored endpoint | Windows 11 (+sysmon) |
+| SOAR | Shuffle |
+| Threat Intelligence | VirusTotal 3.1 |
+| IR | TheHive |
+
+**Attack scenarios covered (MITRE ATT&CK):**
+- `T1003` — Credential Dumping
+ 
+This was my most recent project and the one where the concepts really clicked — from agent deployment and log collection to correlating alerts and investigating attacker behavior in a realistic monitored environment.
 
 ---
 
@@ -44,11 +69,6 @@ My focus is on the **defensive side of security** — detecting real attacks, an
 
 - `T1595` — Active Scanning via Nmap → detected by Zeek `conn.log`
 - `T1190` — SQL Injection against vulnerable web app → logged in `attacks.log`
-- `T1110` — Brute-force via Hydra → captured in `login_attempts.log`
-- `T1046` — Network Service Discovery → flagged by Zeek
-
-**OWASP Top 10 vulnerabilities intentionally implemented** for detection practice (A01, A03, A04, A05, A06:2021).
-
 ---
 
 ## 🛠️ Tech Stack
