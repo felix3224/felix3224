@@ -24,9 +24,9 @@ My focus is on the **defensive side of security** — detecting real attacks, an
  
 > *A hands-on SOC lab built to detect and analyze real security incidents.*
  
-[![Repo](https://img.shields.io/badge/GitHub-soc--wazuh--homelab-181717?style=for-the-badge&logo=github)](https://github.com/felix3224/soc-wazuh-homelab)
-[![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)](https://github.com/felix3224/soc-wazuh-homelab)
-[![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%2FEDR-005571?style=for-the-badge)](https://wazuh.com/)
+[![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-blue)](https://wazuh.com/)
+[![SOAR](https://img.shields.io/badge/SOAR-Shuffle-orange)](https://shuffle.io/)
+[![IR](https://img.shields.io/badge/IR-TheHive-yellow)](https://strangebee.com/thehive/)
  
 This lab simulates a small SOC environment where I monitor, detect, create Rule and investigate security events end-to-end:
  
