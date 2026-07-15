@@ -107,8 +107,7 @@ This was my most recent project and the one where the concepts really clicked �
 
 | Project | Description | Stack |
 |---|---|---|
-
-| [ SOC-Automation-Lab](https://github.com/felix3224/soc-wazuh-homelab) | Wazuh + Shuffle + TheHive ]
+| [ SOC-Automation-Lab](https://github.com/felix3224/soc-wazuh-homelab) | Detection of Mitre Atack: T1003 | Wazuh + Shuffle + TheHive |
 | [🛡️ Threat-Detection-Lab](https://github.com/felix3224/Threat-Detection-Lab) | SOC lab: attack detection with Zeek + ELK | Shell · Ubuntu · Elastic |
 | [🎮 rpg-python](https://github.com/felix3224/rpg-python) | Text RPG to practice OOP concepts | Python |
 | [⚔️ desafio-felix3224-2025](https://github.com/felix3224/desafio-felix3224-2025) | 2025 technical challenge — problem solving & code organization | JavaScript |
