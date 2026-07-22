@@ -40,7 +40,7 @@ This lab simulates a small SOC environment where I monitor, detect, create Rule 
 | IR | TheHive |
 
 **Attack scenarios covered (MITRE ATT&CK):**
-- `T1003` — Credential Dumping
+- `T1003.001` — Credential Dumping
  
 This was my most recent project and the one where the concepts really clicked — from agent deployment and log collection to correlating alerts and investigating attacker behavior in a realistic monitored environment.
 
